@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CalvinL93
 - 👀 I’m interested in ... improving coding skills.
-- 🌱 I’m currently learning ... C++
+- 🌱 I’m currently learning ... as much as I can
 - 💞️ I’m looking to collaborate on ... anything I can learn from.
 - 📫 How to reach me ... by messaging me here.
 
